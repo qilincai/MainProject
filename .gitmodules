@@ -1,0 +1,6 @@
+[submodule "SubProject2"]
+	path = SubProject2
+	url = https://github.com/qilincai/SubProject2.git
+[submodule "SubProject1"]
+	path = SubProject1
+	url = https://github.com/qilincai/SubProject1.git
